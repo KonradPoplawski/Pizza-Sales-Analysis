@@ -14,5 +14,6 @@
 9. Hourly trend of Orders and Revenue.
 
 
-###### Link to data source: https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
 ###### Link to my visualization in Power BI: https://www.novypro.com/project/pizza-sales-report-113
+
+###### Link to data source: https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
